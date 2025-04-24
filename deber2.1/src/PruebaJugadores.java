@@ -35,6 +35,8 @@ public class PruebaJugadores {
         System.out.println(); //Salto de linea
 
         jg3.agregar();
+
+        System.out.println("HOLA");
     }
 }
 
